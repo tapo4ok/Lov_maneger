@@ -1,11 +1,14 @@
 {
   "id": "Forge 1.12.2",
+  "jar": "1.12.2",
+  "family": "Forge-1.12",
   "time": "2024-04-23T16:55:08.383Z",
-  "newFormat": false,
   "releaseTime": "2017-09-18T08:39:46Z",
   "type": "modified",
   "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --tweakClass net.minecraftforge.fml.common.launcher.FMLTweaker --versionType Forge",
   "mainClass": "net.minecraft.launchwrapper.Launch",
+  "minimumLauncherVersion": 18,
+  "tlauncherVersion": 11,
   "libraries": [
     {
       "name": "net.minecraftforge:forge:1.12.2-14.23.5.2860",
@@ -808,6 +811,11 @@
       "url": "https://launcher.mojang.com/v1/objects/0f275bc1547d01fa5f56ba34bdc87d981ee12daf/client.jar",
       "sha1": "0f275bc1547d01fa5f56ba34bdc87d981ee12daf",
       "size": 10180113
+    },
+    "server": {
+      "url": "https://launcher.mojang.com/v1/objects/886945bfb2b978778c3a0288fd7fab09d315b25f/server.jar",
+      "sha1": "886945bfb2b978778c3a0288fd7fab09d315b25f",
+      "size": 30222121
     }
   },
   "assetIndex": {
