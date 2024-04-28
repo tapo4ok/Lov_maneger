@@ -9,6 +9,7 @@
   "mainClass": "net.minecraft.launchwrapper.Launch",
   "minimumLauncherVersion": 18,
   "tlauncherVersion": 11,
+  "newFormat": true,
   "libraries": [
     {
       "name": "net.minecraftforge:forge:1.12.2-14.23.5.2860",
