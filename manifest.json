@@ -1,13 +1,13 @@
 {
   "latest": {
-    "release": "forge-1.12.2",
+    "release": "1.12.2.forge",
     "snapshot": "forge-1.12.2"
   },
   "versions": [
     {
-      "id": "forge-1.12.2",
+      "id": "1.12.2.forge",
       "type": "release",
-      "url": "https://raw.githubusercontent.com/tapo4ok/Lov_maneger/main/forge1.12.2.json",
+      "url": "https://raw.githubusercontent.com/tapo4ok/Lov_maneger/main/1.12.2.forge.json",
       "time": "2023-06-07T11:49:20+00:00",
       "releaseTime": "2017-09-18T08:39:46+00:00",
       "sha1": "832d95b9f40699d4961394dcf6cf549e65f15dc5",
