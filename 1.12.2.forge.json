@@ -2,14 +2,13 @@
   "id": "Forge 1.12.2",
   "jar": "1.12.2",
   "family": "Forge-1.12",
-  "time": "2024-04-23T16:55:08.383Z",
+  "time": "2024-04-29T09:30:09.427Z",
   "releaseTime": "2017-09-18T08:39:46Z",
   "type": "modified",
   "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --tweakClass net.minecraftforge.fml.common.launcher.FMLTweaker --versionType Forge",
   "mainClass": "net.minecraft.launchwrapper.Launch",
   "minimumLauncherVersion": 18,
   "tlauncherVersion": 11,
-  "newFormat": true,
   "libraries": [
     {
       "name": "net.minecraftforge:forge:1.12.2-14.23.5.2860",
