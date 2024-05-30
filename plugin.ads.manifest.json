@@ -1,5 +1,6 @@
 {
-  "auto.msg.eneble": true,
+  "sys.enable": true,
+  "auto.msg.eneble": false,
   "join.msg.eneble": true,
   "join.msg": [
     "Welcome to the server!"
