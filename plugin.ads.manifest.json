@@ -1,7 +1,9 @@
 {
   "auto.msg.eneble": true,
   "join.msg.eneble": екгу,
-  "join.msg": "Welcome to the server!",
+  "join.msg": [
+    "Welcome to the server!"
+  ],
   "auto.msg.list": [
 
 ],
