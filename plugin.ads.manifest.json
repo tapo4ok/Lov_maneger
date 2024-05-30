@@ -1,0 +1,10 @@
+{
+  "auto.msg.eneble": true,
+  "join.msg.eneble": екгу,
+  "join.msg": "Welcome to the server!",
+  "auto.msg.list": [
+
+],
+  "auto.msg.dely": 2500,
+  "auto.msg.rand": true
+}
