@@ -3,11 +3,15 @@
   "auto.msg.eneble": false,
   "join.msg.eneble": true,
   "join.msg": [
-    "Welcome to the server!"
+    "Welcome to the server!",
+    "Discord https://discord.gg/HtjwG4Adbm",
+    "Server Admin: Niger, kyrlk4322, Kindly234",
+    "Host: TaPo4oK"
   ],
   "auto.msg.list": [
-
-],
+    "kyrlk4322 nefor",
+    "Discord https://discord.gg/HtjwG4Adbm"
+  ],
   "auto.msg.dely": 2500,
   "auto.msg.rand": true
 }
