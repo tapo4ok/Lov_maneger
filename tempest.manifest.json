@@ -1,2 +1,20 @@
 {
+  "blacklist": [
+    "xaerominimap_core",
+    "xaerominimap",
+    "journeymap",
+    "wwe",
+    "ares",
+    "autoattack",
+    "forgehax",
+    "kamiblue",
+    "playerhighlighter",
+    "mapwriter",
+    "atlasextras",
+    "voxelmap",
+    "SimplyHaxEntityDump",
+    "liquidbounce",
+    "hvii",
+    "freecam"
+  ]
 }
